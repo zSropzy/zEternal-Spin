@@ -117,7 +117,7 @@ f:Label("zSropzy",{
     TextColor = Color3.fromRGB(255,255,255); 
     BgColor = Color3.fromRGB(247, 95, 28);
 }) 
-f:Label("zSropzy#7175",{
+f:Label("zSropzy#4972",{
     TextSize = 17;
     TextColor = Color3.fromRGB(255,255,255); 
     BgColor = Color3.fromRGB(247, 95, 28); 
